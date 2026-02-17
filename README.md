@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **rathoreasha75@gmail.com** For Collaboration/Project or An
 ![](https://github-contributor-stats.vercel.app/api?username=Asha-Rathore&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/pool/9mJ1Igjt4u?sr=ancr) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/pool/9mJ1Igjt4u?sr=wccr) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
